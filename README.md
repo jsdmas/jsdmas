@@ -11,7 +11,7 @@
 
 #### ✨ Blog
 
-[https://jsdmas.github.io/](https://jsdmas.github.io/)
+- [https://jsdmas.github.io/](https://jsdmas.github.io/)
 
 
 ### 💻 Stack
