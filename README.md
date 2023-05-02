@@ -1,15 +1,20 @@
 ### About
 
-#### 학력
+//자기소개글//
+이력서 : 
 
 #### portfolio
+
 - gitHubLink :
 - siteLink : 
-
 
 #### Blog
 
 [https://jsdmas.github.io/](https://jsdmas.github.io/)
+
+#### 학력
+
+
 
 ### Stack
 
