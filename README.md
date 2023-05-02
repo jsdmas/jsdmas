@@ -1,13 +1,13 @@
 ### 🌱 About
 
 - 
-- 이력서링크 : 
+- 이력서 : 
 - Email : sdmas5730@gmail.com
 
-#### ⭐️ portfolio
+#### ⭐️ Portfolio
 
-- gitHubLink :
-- siteLink : 
+- Repository : [project-rabbit](https://github.com/jsdmas/project-rabbit)
+- Site : [https://sdmas-rabbit.fly.dev/](https://sdmas-rabbit.fly.dev/)
 
 #### ✨ Blog
 
