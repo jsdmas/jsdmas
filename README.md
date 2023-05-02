@@ -1,9 +1,15 @@
 ### About
+
 #### 학력
+
 #### portfolio
 - gitHubLink :
 - siteLink : 
-#### Blog : [https://jsdmas.github.io/](https://jsdmas.github.io/)
+
+
+#### Blog
+
+[https://jsdmas.github.io/](https://jsdmas.github.io/)
 
 ### Stack
 
