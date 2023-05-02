@@ -30,5 +30,7 @@
 
 ### 📚 Education
 
+- <spna style="fontSize:bold">충북도립대학교 컴퓨터융합공학과</span> 2016.03 ~ 2018.02 
+
 ### 🪪 Certificate
 
