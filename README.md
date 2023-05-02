@@ -1,22 +1,20 @@
-### About
+### 🌱 About
 
-//자기소개글//
-이력서 : 
+- 
+- 이력서링크 : 
+- Email : sdmas5730@gmail.com
 
-#### portfolio
+#### ⭐️ portfolio
 
 - gitHubLink :
 - siteLink : 
 
-#### Blog
+#### ✨ Blog
 
 [https://jsdmas.github.io/](https://jsdmas.github.io/)
 
-#### 학력
 
-
-
-### Stack
+### 💻 Stack
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
@@ -30,4 +28,7 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
+### 📚 Education
+
+### 🪪 Certificate
 
