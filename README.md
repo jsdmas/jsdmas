@@ -8,7 +8,8 @@
 
 #### ⭐️ Portfolio
 
-- Repository : [project-rabbit](https://github.com/jsdmas/project-rabbit)
+- 포트폴리오pdf : [구글 드라이브](https://drive.google.com/file/d/1bIOjyTBfZrGAPfVqEXcYQ8mUL9h4WT-p/view?usp=share_link)
+- 대표 Repository : [project-rabbit](https://github.com/jsdmas/project-rabbit)
 - Site : [https://sdmas-rabbit.fly.dev/](https://sdmas-rabbit.fly.dev/)
 
 #### ✨ Blog
