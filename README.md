@@ -6,11 +6,6 @@
 - 가독성 좋고, 중복 없는 코드를 위해 힘쓰고 있습니다. 📋
 - Email : sdmas5730@gmail.com
 
-#### ⭐️ Portfolio
-
-- 대표 Repository : [project-rabbit](https://github.com/jsdmas/project-rabbit)
-- Site : [https://sdmas-rabbit.fly.dev/](https://sdmas-rabbit.fly.dev/)
-
 #### ✨ Blog
 
 - [https://jsdmas.github.io/](https://jsdmas.github.io/)
