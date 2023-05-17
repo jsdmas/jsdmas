@@ -22,12 +22,11 @@
 <br />
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
 ### 📚 Education
 
 - 충북도립대학교 **컴퓨터융합공학과** | 2016.03 ~ 2018.02 
-- 이젠아카데미평생교육원 **풀스택 웹개발자 과정**  | 2022.08 ~ 2023.01.20
+- 이젠아카데미평생교육원 **웹개발자 과정**  | 2022.08 ~ 2023.01.20
 - [인터넷 강의(nomadcoders)](https://nomadcoders.co/users/sdmas5730)
 
 ### 🪪 Certificate
