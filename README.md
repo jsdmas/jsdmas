@@ -5,6 +5,9 @@
 - 다른 사람들과의 팀워크와 커뮤니케이션을 중요시합니다. 🗣️
 - Email : sdmas5730@gmail.com
 
+#### Portfolio
+[https://drive.google.com/file/d/1jb7t18hgKlEVAN2PKNw9Jixh079meQMA/view?usp=sharing](https://drive.google.com/file/d/1jb7t18hgKlEVAN2PKNw9Jixh079meQMA/view?usp=sharing)
+
 #### ✨ Blog
 
 - [https://jsdmas.github.io/](https://jsdmas.github.io/)
