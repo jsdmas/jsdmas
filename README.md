@@ -6,7 +6,8 @@
 - Email : sdmas5730@gmail.com
 
 #### Portfolio
-[pdf파일](https://drive.google.com/file/d/1jb7t18hgKlEVAN2PKNw9Jixh079meQMA/view?usp=sharing)
+- [pdf파일](https://drive.google.com/file/d/1jb7t18hgKlEVAN2PKNw9Jixh079meQMA/view?usp=sharing)
+
 
 #### ✨ Blog
 
