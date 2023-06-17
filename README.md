@@ -1,10 +1,3 @@
-### 🌱 About
-
-- 안녕하세요! 프론트엔드 개발자 장진호입니다.
-- 기본을 중요하게 생각합니다.
-- 다른 사람들과의 팀워크와 커뮤니케이션을 중요시합니다. 🗣️
-- Email : sdmas5730@gmail.com
-
 ### 💻 Stack
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
