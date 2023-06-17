@@ -1,3 +1,8 @@
+### About
+
+사람들과의 협업, 소통과 기본기를 중요시 여기는 개발자 장진호입니다.  
+매일 알고리즘 문제를 풀고 기본 개념을 정리하여 프로그래밍 지식을 쌓는 루틴을 만들어 실천중입니다.
+
 ### 💻 Stack
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
