@@ -24,4 +24,4 @@
 - **컴퓨터활용능력2급** | 2016.12.02
 
 ## nextStap
-[![My Skills](https://skillicons.dev/icons?i=nextjs,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
