@@ -16,7 +16,7 @@
 
 ### 📈 대외활동
 - Programmers 2023 Dev-Matching 상반기 : 웹 프론트엔드 개발자 (합격)
-- wanted-pre-onboarding-11th (23.06.26~)
+- wanted-pre-onboarding-internship-11th (23.06.26~)
 
 ### 🪪 Certificate
 
