@@ -23,5 +23,5 @@
 - **정보처리산업기사** | 2018.11.16
 - **컴퓨터활용능력2급** | 2016.12.02
 
-## nextStap
-[![My Skills](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
+## 블로그
+[https://jsdmas.github.io/](https://jsdmas.github.io/)
