@@ -1,27 +1,8 @@
-### About
-
-사람들과의 소통과 기본기를 중요시 여기는 개발자 장진호입니다.  
-매일 알고리즘 문제를 풀고 기본 개념을 정리하여 프로그래밍 지식을 쌓는 루틴을 만들어 실천중입니다.
-
 ### 💻 Stack
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 
-### 📚 Education
-
-- 충북도립대학교 **컴퓨터융합공학과** | 2016.03 ~ 2018.02 
-- 이젠아카데미평생교육원 **웹개발자 과정**  | 2022.08 ~ 2023.01.20
-
-### 📈 대외활동
-- Programmers 2023 Dev-Matching 상반기 : 웹 프론트엔드 개발자 (합격)
-- wanted-pre-onboarding-internship-11th (23.06.26~)
-
-### 🪪 Certificate
-
-- **정보처리산업기사** | 2018.11.16
-- **컴퓨터활용능력2급** | 2016.12.02
-
-## 블로그
-[https://jsdmas.github.io/](https://jsdmas.github.io/)
+## portfolio
+[노션 링크](https://automatic-fedora-747.notion.site/9eba8b6f510b4a96af5ed95b009cce7e?pvs=4)
