@@ -10,7 +10,7 @@ JavaScript, TypeScript, Next.js, React, GraphQL
 
 ### Info
 
-[Resume](https://www.rallit.com/resumes/282996@sdmas5730/%EC%9E%A5%EC%A7%84%ED%98%B8)
-**Email**: sdmas5730@gmail.com
+[Resume](https://www.rallit.com/resumes/282996@sdmas5730/%EC%9E%A5%EC%A7%84%ED%98%B8)  
+**Email**: sdmas5730@gmail.com  
 **Blog**: https://sdmas.tistory.com
 
